@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6DB402D4-B4F5-450B-8095-0A7687106654}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OXamarin/OXamarin/App.xaml.cs">
+    <Files>
+      <File FileName="OXamarin/OXamarin/Views/MainPage.xaml.cs" Line="12" Column="1" />
+      <File FileName="OXamarin/OXamarin/ViewModels/MainPageViewModel.cs" Line="62" Column="9" />
+      <File FileName="OXamarin/OXamarin/Behaviors/ItemSelectedToCommandBaseBehavior.cs" Line="30" Column="26" />
+      <File FileName="OXamarin/OXamarin/Behaviors/ItemSelectedToCommandBehaviorDrink.cs" Line="1" Column="1" />
+      <File FileName="OXamarin/OXamarin/Models/Favorite.cs" Line="37" Column="22" />
+      <File FileName="OXamarin/OXamarin/Views/MainPage.xaml" Line="16" Column="32" />
+      <File FileName="OXamarin/OXamarin.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="OXamarin/OXamarin/App.xaml" Line="7" Column="26" />
+      <File FileName="OXamarin/OXamarin/App.xaml.cs" Line="22" Column="62" />
+      <File FileName="OXamarin/OXamarin.Droid/MainActivity.cs" Line="15" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>JsonConvert.DeserializeObject&lt;List&lt;Favorite&gt;&gt;(jsonresult);</Value>
+          <Value>JsonConvert.DeserializeObject&lt;List&lt;Favorite&gt;&gt;(jsonresult);.IEnumerator.[0].IEnumerator.[0].IEnumerator.[0].First.Value</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OXamarin.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.02A13420-4555-4368-980F-D40D8C317668" />
+</Properties>
