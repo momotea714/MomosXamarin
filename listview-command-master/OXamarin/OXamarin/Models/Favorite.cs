@@ -13,9 +13,9 @@ namespace OXamarin.Models
         [JsonProperty("id")]
         public int id { get; set; }
 
-        [DataMember(Name = "categoryCD")]
-        [JsonProperty("categoryCD")]
-        public int categoryCD { get; set; }
+        [DataMember(Name = "MiddleClassificationCD")]
+        [JsonProperty("MiddleClassificationCD")]
+        public int MiddleClassificationCD { get; set; }
 
         [DataMember(Name = "title")]
         [JsonProperty("title")]
@@ -33,9 +33,4 @@ namespace OXamarin.Models
         [JsonProperty("updated_at")]
         public DateTime updated_at { get; set; }
     }
-
-public class NewModel
-{
-	public List<Favorite> favorite { get; set; }
-}
 }

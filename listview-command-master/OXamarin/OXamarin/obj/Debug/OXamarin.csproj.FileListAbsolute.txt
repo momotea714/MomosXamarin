@@ -1,69 +1,44 @@
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/obj/Debug/OXamarin.App.xaml.g.cs
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/obj/Debug/OXamarin.Views.MainPage.xaml.g.cs
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/obj/Debug/OXamarin.dll
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/obj/Debug/OXamarin.pdb
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/OXamarin.dll
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/OXamarin.pdb
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.dll
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.Unity.dll
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Prism.dll
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Prism.Forms.dll
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Prism.Unity.Forms.dll
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.dll
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Platform.dll
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.dll
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.xml
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.Unity.xml
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Prism.xml
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Prism.Forms.xml
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Prism.Unity.Forms.xml
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Prism.Unity.Forms.dll.config
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.pdb
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.xml
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Platform.pdb
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.pdb
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.xml
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/obj/Debug/OXamarin.dll.mdb
-c:/users/y/documents/visual studio 2017/Projects/OXamarin/OXamarin/OXamarin/bin/Debug/OXamarin.dll.mdb
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/OXamarin.dll.config
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/OXamarin.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/OXamarin.dll.mdb
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.Unity.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Newtonsoft.Json.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.Forms.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.Unity.Forms.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.Extensions.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.Primitives.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Platform.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.Unity.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.Forms.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.Unity.Forms.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.Unity.Forms.dll.config
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Newtonsoft.Json.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.Extensions.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.Primitives.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.pdb
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.dll.mdb
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Platform.pdb
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Platform.dll.mdb
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.pdb
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.xml
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.csproj.App.config
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.csprojResolveAssemblyReference.cache
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.App.xaml.g.cs
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.Views.MainPage.xaml.g.cs
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.dll
-/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/OXamarin.dll.config
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/OXamarin.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/OXamarin.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.Unity.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Newtonsoft.Json.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.Forms.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.Unity.Forms.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.Extensions.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.Primitives.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Microsoft.Practices.Unity.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.Forms.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.Unity.Forms.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Prism.Unity.Forms.dll.config
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Newtonsoft.Json.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.Extensions.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/System.Net.Http.Primitives.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Core.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.csproj.App.config
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.csproj.CoreCompileInputs.cache
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.App.xaml.g.cs
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.Views.SecondPage.xaml.g.cs
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.Views.FavoriteListPage.xaml.g.cs
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.Views.MainPage.xaml.g.cs
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/obj/Debug/OXamarin.csprojResolveAssemblyReference.cache

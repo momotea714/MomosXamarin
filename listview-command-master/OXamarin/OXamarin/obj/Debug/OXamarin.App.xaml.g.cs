@@ -11,7 +11,7 @@
 namespace OXamarin {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/App.xaml")]
     public partial class App : global::Prism.Unity.PrismApplication {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

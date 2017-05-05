@@ -3,6 +3,7 @@
 	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
 	xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
 	prism:ViewModelLocator.AutowireViewModel="True"
+	xmlns:b="clr-namespace:OXamarin.Behaviors;assembly=OXamarin"
 	x:Class="OXamarin.Views.MainPage">
 <!--iOSの場合は上部に余白を設ける-->
     <ContentPage.Padding>
@@ -10,16 +11,26 @@
     </ContentPage.Padding>
 
     <!--タブ1ページ目-->
-    <ContentPage Title="全てのカテゴリ">
+    <ContentPage Title="全てのカテゴリ" Icon="star.png" >
         <StackLayout>
         <Entry x:Name="entry"
                Placeholder="選択して下さい"/>
         <ListView x:Name="ListViewItem"
 			ItemsSource="{Binding Items}"
-                  ItemTapped="ListView_ItemTapped"
 				  IsPullToRefreshEnabled="True"
 	         		RefreshCommand="{Binding ItemRefreshCommand}"
-      			IsRefreshing="{Binding IsRefresh}"/>
+      			IsRefreshing="{Binding IsRefresh}">
+			   <ListView.Behaviors>
+                  <b:ItemSelectedToCommandBaseBehavior Command="{Binding ItemSelectedCommand}"/>
+               </ListView.Behaviors>
+				<ListView.ItemTemplate>
+				<DataTemplate>
+					<ViewCell>
+					<Label Text="{Binding Name}"></Label>
+						</ViewCell>
+					</DataTemplate>
+				</ListView.ItemTemplate>
+	    </ListView>
     </StackLayout>
     </ContentPage>
 

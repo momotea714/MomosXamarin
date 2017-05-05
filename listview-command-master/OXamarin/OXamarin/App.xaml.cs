@@ -21,6 +21,8 @@ namespace OXamarin
             Container.RegisterTypeForNavigation<NavigationPage>();
             //Container.RegisterTypeForNavigation<MainPage>();
             Container.RegisterTypeForNavigation<MainPage>();
+            Container.RegisterTypeForNavigation<SecondPage>();
+            Container.RegisterTypeForNavigation<FavoriteListPage>();
         }
     }
 }

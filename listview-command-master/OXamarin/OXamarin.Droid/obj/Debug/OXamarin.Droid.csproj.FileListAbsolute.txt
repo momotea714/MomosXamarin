@@ -1,59 +1,85 @@
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\OXamarin.Droid.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\OXamarin.Droid.pdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\OXamarin.Droid.apk
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\OXamarin.Droid-Signed.apk
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\FormsViewGroup.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Microsoft.Practices.Unity.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\OXamarin.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Prism.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Prism.Forms.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Prism.Unity.Forms.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Core.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\OXamarin.pdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\FormsViewGroup.pdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\FormsViewGroup.dll.mdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Microsoft.Practices.Unity.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Prism.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Prism.Forms.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Prism.Unity.Forms.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Prism.Unity.Forms.dll.config
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Core.pdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Core.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\OXamarin.Droid.csprojResolveAssemblyReference.cache
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\OXamarin.Droid.dll
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\OXamarin.Droid.pdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\android\bin\OXamarin.Droid.apk
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\res\drawable\icon.png
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\res\drawable-hdpi\icon.png
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\res\drawable-xhdpi\icon.png
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\res\layout\tabs.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\res\layout\toolbar.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\res\values\colors.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\res\values\styles.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\res\values-v21\styles.xml
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\R.cs.flag
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\uploadflags.txt
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\obj\Debug\OXamarin.Droid.dll.mdb
-c:\users\y\documents\visual studio 2017\Projects\OXamarin\OXamarin\OXamarin.Droid\bin\Debug\OXamarin.Droid.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/OXamarin.Droid.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/OXamarin.Droid.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/OXamarin.Droid.apk
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/OXamarin.Droid-Signed.apk
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/FormsViewGroup.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Microsoft.Practices.Unity.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/OXamarin.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Prism.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Prism.Forms.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Prism.Unity.Forms.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.Transition.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/OXamarin.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/OXamarin.dll.config
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Microsoft.Practices.Unity.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Prism.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Prism.Forms.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Prism.Unity.Forms.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Prism.Unity.Forms.dll.config
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/FormsViewGroup.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/bin/Debug/Newtonsoft.Json.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/OXamarin.Droid.csprojResolveAssemblyReference.cache
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Annotations.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Compat.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.UI.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.Utils.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Media.Compat.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Fragment.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Transition.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v4.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.CardView.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.Palette.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Vector.Drawable.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.AppCompat.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Design.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/OXamarin.Droid.csproj.CoreCompileInputs.cache
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/OXamarin.Droid.dll
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/OXamarin.Droid.pdb
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/android/bin/OXamarin.Droid.apk
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/res/drawable/icon.png
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/res/layout/tabs.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/res/layout/toolbar.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/res/values/colors.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/res/values/styles.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/res/values-v21/styles.xml
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/R.cs.flag
+/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin.Droid/obj/Debug/uploadflags.txt

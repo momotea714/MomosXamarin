@@ -11,7 +11,7 @@
 namespace OXamarin.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/momotea/Desktop/anything/開発/listview-command-master/OXamarin/OXamarin/Views/MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/momotea/Desktop/anything/開発/GitHub/MomosXamarin/listview-command-master/OXamarin/OXamarin/Views/MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

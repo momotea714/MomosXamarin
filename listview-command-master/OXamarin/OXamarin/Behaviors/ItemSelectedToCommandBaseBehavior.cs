@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Net.Http;
 using System.Threading.Tasks;
+using System.Windows.Input;
 using Prism.Behaviors;
 using Prism.Commands;
 using Xamarin.Forms;
@@ -9,11 +10,11 @@ namespace OXamarin.Behaviors
 {
 	public class ItemSelectedToCommandBaseBehavior : BehaviorBase<ListView>
 	{
-		public static readonly BindableProperty CommandProperty = BindableProperty.Create("Command", typeof(DelegateCommand), typeof(EventToCommandBehavior));
+		public static readonly BindableProperty CommandProperty = BindableProperty.Create("Command", typeof(ICommand), typeof(EventToCommandBehavior));
 
-		public DelegateCommand Command
+		public ICommand Command
 		{
-			get { return (DelegateCommand)GetValue(CommandProperty); }
+			get { return (ICommand)GetValue(CommandProperty); }
 			set { SetValue(CommandProperty, value); }
 		}
 
@@ -47,9 +48,9 @@ namespace OXamarin.Behaviors
 
 		protected virtual void Bindable_ItemSelected(object sender, SelectedItemChangedEventArgs e)
 		{
-			if (Command.CanExecute())
+            if (Command.CanExecute(e.SelectedItem))
 			{
-				Command.Execute();
+                Command.Execute(e.SelectedItem);
 			}
 		}
 	}
